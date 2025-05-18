@@ -1,1 +1,0 @@
-# Sentiment-analysis-project-for-Micro-It
