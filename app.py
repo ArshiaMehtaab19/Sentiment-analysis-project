@@ -1,5 +1,6 @@
 import streamlit as st
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.sentiment.vader 
+import SentimentIntensityAnalyzer
 import nltk
 
 # Download VADER lexicon
