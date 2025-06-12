@@ -13,7 +13,7 @@ Predict sentiment of new data.
 
 **Optional:** Deploy as a simple web application.
 
-**Dataset**
+**Dataset**:
 Uses public datasets such as IMDb, Twitter Sentiment140, or custom data. Each entry includes a text and its corresponding sentiment label.
 
 **Technologies Used**
